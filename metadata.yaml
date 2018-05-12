@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5026
     wikipedia: http://en.wikipedia.org/wiki/George_McCready_Price
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13370#Q.-E.-D.-or-New-Light-on-the-Doctrine-of-Creation
 gutenberg_issued: '2004-09-03'
 gutenberg_type: Text
 identifiers:
