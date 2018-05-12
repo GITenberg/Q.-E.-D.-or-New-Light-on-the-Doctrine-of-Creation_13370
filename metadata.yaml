@@ -1,0 +1,28 @@
+_repo: Q.-E.-D.-or-New-Light-on-the-Doctrine-of-Creation_13370
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Price, George McCready
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '5026'
+    url: http://www.gutenberg.org/2009/agents/5026
+    wikipedia: http://en.wikipedia.org/wiki/George_McCready_Price
+description: ''
+gutenberg_issued: '2004-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Creation'
+- !lcsh 'Evolution'
+- !lcc 'QH'
+title: Q. E. D., or New Light on the Doctrine of Creation
+url: http://www.gutenberg.org/ebooks/13370
